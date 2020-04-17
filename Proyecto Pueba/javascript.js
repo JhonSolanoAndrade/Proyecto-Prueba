@@ -9,6 +9,7 @@ function ejecuta()
     ALERT ("PASO NUMERO 1 OTRA RAMA")
     ALERT ("PASO NUMERO 2 OTRA RAMA")
     ALERT ("PASO NUMERO 1 WEB")
+    ALERT ("PASO NUMERO 1 OTRA RAMA WEB")
 }
 
 window.onload = ejecuta;
